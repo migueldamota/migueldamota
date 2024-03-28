@@ -1,13 +1,13 @@
 # Hey! I'm Miguel 👋
 
-Welcome to my GitHub profile! I'm a software engineer with a passion for learning and sharing knowledge.
+Welcome to my GitHub profile! I'm a software engineer and I love to build things. I'm currently working on a [few projects](#projects).
 
-## Socials
+### Socials
 
 [![X](https://img.shields.io/badge/@miguel_damota-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@miguel_damota)
 [![LinkedIn](https://img.shields.io/badge/miguel_da_mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-da-mota-9495a22bb)
 
-## Things I work with
+### Things I work with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for learnin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed-industries&logoColor=white)
 
-## Projects
+### Projects
 
-### [GoSquash](https://github.com/gosquash)
+#### [GoSquash](https://github.com/gosquash)
 
 An open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more. This project is still in development.
 
-### [TheDailyHack](https://github.com/migueldamota/thedailyhack)
+#### [TheDailyHack](https://github.com/migueldamota/thedailyhack)
 
 A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design)> This project is still in development
