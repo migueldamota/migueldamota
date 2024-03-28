@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a software engineer and I love to build things
 ![Apple](https://img.shields.io/badge/Apple-000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=arc&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=vscode&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed-industries&logoColor=white)
 
 ### Projects
@@ -35,4 +36,4 @@ An open source mobile app for playing Squash with your friends and save your sco
 
 #### [TheDailyHack](https://github.com/migueldamota/thedailyhack)
 
-A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design)> This project is still in development
+A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design). This project is still in development
