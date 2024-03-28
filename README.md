@@ -32,8 +32,12 @@ Welcome to my GitHub profile! I'm a software engineer and I love to build things
 
 #### [GoSquash](https://github.com/gosquash)
 
-An open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more. This project is still in development.
+An open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more.
 
 #### [TheDailyHack](https://github.com/migueldamota/thedailyhack)
 
-A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design). This project is still in development
+A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design).
+
+#### Vybr
+
+A open source client which connects Spotify, Tidal and more music services to one app. Listen to your music in one place. (Coming soon)
