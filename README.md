@@ -27,16 +27,16 @@ Welcome to my GitHub profile! I'm a software engineer and I love to build things
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed-industries&logoColor=white)
 
-### Projects
+### Current projects
 
 #### [GoSquash](https://github.com/gosquash)
 
-An open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more.
+A open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more.
 
-#### [TheDailyHack](https://github.com/migueldamota/thedailyhack)
+#### [HackerNews CLI](https://github.com/migueldamota/hackernews-cli)
 
-A open source platform for getting the latest news of [HackerNews](https://news.ycombinator.com) in EPUB (as a newspaper design).
+A open source project where you can interact with hacker news in the CLI. Upvote, comment and more directly from the CLI.
 
-#### Vybr
+#### Vybr (Coming soon)
 
-A open source client which connects Spotify, Tidal and more music services to one app. Listen to your music in one place. (Coming soon)
+A open source client which connects Spotify, Tidal and more music services to one app. Listen to your music in one place.
