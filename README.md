@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software engineer and I love to build things
 ### Socials
 
 [![X](https://img.shields.io/badge/@miguel__damota-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@miguel_damota)
-[![LinkedIn](https://img.shields.io/badge/miguel_da_mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelda-ota)
+[![LinkedIn](https://img.shields.io/badge/miguel_da_mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueldamota)
 
 ### Things I work with
 
