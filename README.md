@@ -40,3 +40,9 @@ A open source project where you can interact with hacker news in the CLI. Upvote
 #### Vybr (Coming soon)
 
 A open source client which connects Spotify, Tidal and more music services to one app. Listen to your music in one place.
+
+
+### Projects, I wanna do
+
+- MiggiCloud: Free and open source cloud system
+- Ecommerce Dashboard
