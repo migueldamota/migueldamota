@@ -33,16 +33,6 @@ Welcome to my GitHub profile! I'm a software engineer and I love to build things
 
 A open source mobile app for playing Squash with your friends and save your scores for tournaments, leaderboard and more.
 
-#### [HackerNews CLI](https://github.com/migueldamota/hackernews-cli)
+#### MiggiDNS (not published yet)
 
-A open source project where you can interact with hacker news in the CLI. Upvote, comment and more directly from the CLI.
-
-#### Vybr (Coming soon)
-
-A open source client which connects Spotify, Tidal and more music services to one app. Listen to your music in one place.
-
-
-### Projects, I wanna do
-
-- MiggiCloud: Free and open source cloud system
-- Ecommerce Dashboard
+An authoritative DNS server with a web dashboard to manage your zones and records. Will be published soon
